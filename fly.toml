@@ -1,14 +1,14 @@
-# fly.toml app configuration file generated for sh87 on 2026-11-13T14:17:34Z
+# fly.toml app configuration file generated for bash87 on 2026-11-13T14:46:46Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'sh87'
-primary_region = 'ams'
+app = 'bash87'
+primary_region = 'fra'
 
 [build]
 [http_service]
-  internal_port = 8080
+  internal_port = 8000
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
