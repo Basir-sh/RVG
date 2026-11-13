@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for aparat on 2026-11-13T14:50:59Z
+# fly.toml app configuration file generated for bash18 on 2026-11-13T18:13:35Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'aparat'
+app = 'bash18'
 primary_region = 'fra'
 
 [build]
