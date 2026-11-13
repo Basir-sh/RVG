@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for shem on 2026-11-13T14:10:40Z
+# fly.toml app configuration file generated for sh87 on 2026-11-13T14:17:34Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'shem'
-primary_region = 'fra'
+app = 'sh87'
+primary_region = 'ams'
 
 [build]
 [http_service]
